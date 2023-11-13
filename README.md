@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jeffersonroth
-- 👀 I’m interested in Data Quality, Data Engineering and Sudoku!
-- 🌱 I’m currently learning Reliability Engineering, Observability and Controlability.
+- 👀 I’m interested in Data Architecture, Data Quality/Reliability Engineering, Data Platform Engineering, and Sudoku!
 - 📫 How to reach me: jjrothfilho@gmail.com
